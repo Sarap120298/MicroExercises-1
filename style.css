@@ -1,0 +1,6 @@
+body{
+    display: flex;
+    text-align: center;
+    flex-flow: column;
+    margin: 150px;
+}
